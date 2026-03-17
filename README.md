@@ -30,5 +30,4 @@ We understand that every student learns differently. Our teaching methods includ
 • Science
 • English
 • Social Studies
-• Foundation programs for higher classes
 
