@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enquiry Form - PURE MIND</title>
+
+<style>
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+.form-box{
+    background:white;
+    width:320px;
+    margin:auto;
+    margin-top:50px;
+    padding:20px;
+    border-radius:10px;
+}
+
+input, textarea{
+    width:90%;
+    padding:10px;
+    margin:10px 0;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+button{
+    width:100%;
+    padding:10px;
+    background:#4CAF50;
+    color:white;
+    border:none;
+    border-radius:5px;
+    font-size:16px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="form-box">
+<h2>Enquiry Form</h2>
+
+<form onsubmit="submitForm()">
+    <input type="text" placeholder="Name" required>
+    <input type="text" placeholder="Class" required>
+    <input type="tel" placeholder="Phone Number" required>
+    <textarea placeholder="About your enquiry" required></textarea>
+    <button type="submit">Submit</button>
+</form>
+
+</div>
+
+<script>
+function submitForm(){
+    alert("Thank you! Your enquiry has been submitted.");
+}
+</script>
+
+</body>
+</html>
