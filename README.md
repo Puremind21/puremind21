@@ -32,15 +32,3 @@ We understand that every student learns differently. Our teaching methods includ
 • Social Studies
 • Foundation programs for higher classes
 
-**Why Choose PURE MIND Institute?**
-
-✔ Experienced and passionate teachers
-✔ Strong focus on fundamentals and conceptual clarity
-✔ Structured study plans and practice tests
-✔ Friendly and motivating learning environment
-✔ Guidance to build confidence and academic discipline
-
-At **PURE MIND Institute**, our mission is to nurture **curious learners, confident thinkers, and successful students**. We are committed to guiding every student toward academic excellence and a brighter future.
-
-**PURE MIND Institute – Learn Smart. Think Deep. Achieve More.**
-
